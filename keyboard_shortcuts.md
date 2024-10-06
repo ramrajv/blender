@@ -2,7 +2,7 @@
 ## Universal
 
 | Key		| Meaning			|
-|:---		|---:				|
+|:---		|:---				|
 | Esc	| Cancels Blender functions without changes|
 | Space	| Open the toolbox|
 | Tab	| Start or quit edit mode|
