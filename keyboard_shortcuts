@@ -1,0 +1,1548 @@
+<p><a href="https://quickref.me/blender.html#keyboard-shortcuts">#</a> Keyboard Shortcuts</p>
+<p><strong>## Universal</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Esc</p>
+</td>
+<td>
+<p>Cancels Blender functions without changes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Space</p>
+</td>
+<td>
+<p>Open the toolbox</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tab</p>
+</td>
+<td>
+<p>Start or quit edit mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F1</p>
+</td>
+<td>
+<p>Loads a Blender file, changes the window to a file window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;F1</p>
+</td>
+<td>
+<p>Appends parts from other files, or loads as library data</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F2</p>
+</td>
+<td>
+<p>Writes a Blender file, changes the window to a file window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;F2</p>
+</td>
+<td>
+<p>Exports the scene as a DXF file</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;F2</p>
+</td>
+<td>
+<p>Exports the scene as a VRML1 file</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F3</p>
+</td>
+<td>
+<p>Writes a picture, if a picture has been rendered, and the file format is as indicated in the display buttons</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;F3</p>
+</td>
+<td>
+<p>Saves a screen dump of the active window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Shift&nbsp;F3</p>
+</td>
+<td>
+<p>Saves a screen dump of the whole Blender screen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F4</p>
+</td>
+<td>
+<p>Displays the logic context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F5</p>
+</td>
+<td>
+<p>Displays the shading context, light, material, or world sub-contexts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F6</p>
+</td>
+<td>
+<p>Displays the shading context and texture sub-context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F7</p>
+</td>
+<td>
+<p>Displays the object context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F8</p>
+</td>
+<td>
+<p>Displays the shading context and world sub-context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F9</p>
+</td>
+<td>
+<p>Displays the editing context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F10</p>
+</td>
+<td>
+<p>Displays the scene context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F11</p>
+</td>
+<td>
+<p>Hides or shows the render window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F12</p>
+</td>
+<td>
+<p>Starts the rendering from the active camera</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Left</p>
+</td>
+<td>
+<p>Go to the previous frame</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Left</p>
+</td>
+<td>
+<p>Go to the first frame</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Right</p>
+</td>
+<td>
+<p>Go to the next frame</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Right</p>
+</td>
+<td>
+<p>Go to the last frame</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Up</p>
+</td>
+<td>
+<p>Go forward 10 frames</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Down</p>
+</td>
+<td>
+<p>Go back 10 frames</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;A</p>
+</td>
+<td>
+<p>Change the current Blender window to animation playback mode, the cursor changes to a counter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;Shift&nbsp;A</p>
+</td>
+<td>
+<p>Change the current window and all 3D windows to animation playback mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>Insert key menu, this menu differs from window to window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>J</p>
+</td>
+<td>
+<p>Toggle the render buffers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;O</p>
+</td>
+<td>
+<p>Opens the last saved file</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p>Quit Blender</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Alt&nbsp;T</p>
+</td>
+<td>
+<p>Timer menu, this menu offers access to information about drawing speed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;U</p>
+</td>
+<td>
+<p>Save user defaults, current project settings are written to the default file that will be loaded every time you start Blender</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;W</p>
+</td>
+<td>
+<p>Write file without opening a file window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;W</p>
+</td>
+<td>
+<p>Write videoscape file</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;X</p>
+</td>
+<td>
+<p>Erase everything except the render buffer, the default scene is reloaded</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Y</p>
+</td>
+<td>
+<p>Redo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Z</p>
+</td>
+<td>
+<p>Undo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Shift&nbsp;Z</p>
+</td>
+<td>
+<p>Redo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Object Mode</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Home</p>
+</td>
+<td>
+<p>All objects in the visible layer are displayed completely, centered in the window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PgUp</p>
+</td>
+<td>
+<p>Select the next object key, if more than one is selected the selection is shifted up cyclically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;PgUp</p>
+</td>
+<td>
+<p>Add to selection the next object key</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PgDn</p>
+</td>
+<td>
+<p>Select the previous object key, if more than one is selected the selection is shifted up cyclically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;PgDn</p>
+</td>
+<td>
+<p>Adds to selection the previous object key</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>`</p>
+</td>
+<td>
+<p>Select all layers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;`</p>
+</td>
+<td>
+<p>Revert to the previous layer setting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tab</p>
+</td>
+<td>
+<p>Start or stop edit mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>Selects or deselects all</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;A</p>
+</td>
+<td>
+<p>Apply size and rotation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Shift&nbsp;A</p>
+</td>
+<td>
+<p>If the active object is automatically duplicated, brings up a menu for actually creating the objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;A</p>
+</td>
+<td>
+<p>Brings up the add menu, the toolbox items that start with ADD</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>Border select, draws a rectangle with the left mouse to select objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;B</p>
+</td>
+<td>
+<p>Render border, this only works in camera view mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>Center view, the position of the 3D cursor becomes the new center of the 3D window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;C</p>
+</td>
+<td>
+<p>Convert menu, depending on the active object a popup menu is displayed enabling you to convert certain types of ObData</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;C</p>
+</td>
+<td>
+<p>Copy menu, this menu copies information from the active object to selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;C</p>
+</td>
+<td>
+<p>Center zero view, the 3D cursor is set to zero and the view is changed so all objects can be displayed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D</p>
+</td>
+<td>
+<p>Display draw mode menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;D</p>
+</td>
+<td>
+<p>Add duplicate, the selected objects are duplicated</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;D</p>
+</td>
+<td>
+<p>Add linked duplicate, linked duplicates of the selected objects are created</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;D</p>
+</td>
+<td>
+<p>Draw the texture image as wire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;E</p>
+</td>
+<td>
+<p>Start or stop edit mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+<p>If selected object is a mash, toggles face select mode on or off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;F</p>
+</td>
+<td>
+<p>Sort faces, the faces of the active mesh object are sorted based on the current view in the 3D window</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G</p>
+</td>
+<td>
+<p>Grab mode, or translation mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;G</p>
+</td>
+<td>
+<p>Clears translations, given in grab mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;G</p>
+</td>
+<td>
+<p>Group selection</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>Insert object key, a keyposition is inserted in the current frame of all selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;J</p>
+</td>
+<td>
+<p>Join objects, all selected objects of the same type are added to the active object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>K</p>
+</td>
+<td>
+<p>Show keys, the draw key option is turned on for all selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;K</p>
+</td>
+<td>
+<p>Display popup menu for showing and selecting all keys</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>Makes selected object local, makes library linked objects local for the current scene</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;L</p>
+</td>
+<td>
+<p>Link selected, links some of the active object data to all selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;L</p>
+</td>
+<td>
+<p>Select linked, selected all objects somehow linked to the active object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M</p>
+</td>
+<td>
+<p>Move selected objects to another layer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;M</p>
+</td>
+<td>
+<p>Mirror menu, it is possible to mirror an object along the X, Y, or Z axis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Number panel, the location, rotation, and scaling of the active object are displayed and can be modified</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;O</p>
+</td>
+<td>
+<p>Clear origin, the origin is erased for all child objects, which causes them to move ot the exact location of the parent objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;O</p>
+</td>
+<td>
+<p>If the selected object is a mesh, toggles the subsurf on or off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;P</p>
+</td>
+<td>
+<p>Make selected objects the children of the active object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;P</p>
+</td>
+<td>
+<p>Clears parent relation, user is asked if they wish to keep or clear parent-induced transforms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>R</p>
+</td>
+<td>
+<p>Rotate mode, works on selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;R</p>
+</td>
+<td>
+<p>Clears rotation, the X, Y, and Z rotations of selected objects are set to zero</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>Size mode or scaling mode, works on selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;S</p>
+</td>
+<td>
+<p>Clears size, the X, Y, and Z dimensions of selected objects are set to 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;S</p>
+</td>
+<td>
+<p>Opens the snap menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T</p>
+</td>
+<td>
+<p>Texture space mode, the position of dimensions of the texture space for the selected objects can be changed in the same manner for grab and size mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;T</p>
+</td>
+<td>
+<p>Makes selected objects track the active object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;T</p>
+</td>
+<td>
+<p>Clears old style track, constraint track is removed as all constrains are</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U</p>
+</td>
+<td>
+<p>Makes object single user, the inverse operation of link</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V</p>
+</td>
+<td>
+<p>Switches in and out of vertex paint mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;V</p>
+</td>
+<td>
+<p>Object image aspect, this hotkey sets the X and Y dimensions of the selected objects in relation to the dimensions of the image texture they have</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>Opens the object booleans menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Deletes selected objects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Z</p>
+</td>
+<td>
+<p>Toggles solid mode on or off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Z</p>
+</td>
+<td>
+<p>Toggles shaded mode on or off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;Z</p>
+</td>
+<td>
+<p>Toggles textured mode on or off</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Edit Mode - General</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Tab</p>
+</td>
+<td>
+<p>Start or stop edit mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;E</p>
+</td>
+<td>
+<p>Start or stop edit mode (alternative)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Tab</p>
+</td>
+<td>
+<p>Switches between vertex select, edge select, and face select modes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>Select or unselect all</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>B&nbsp;B</p>
+</td>
+<td>
+<p>Circle select</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;H</p>
+</td>
+<td>
+<p>With vertices selected, this creates a hook object</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>N</p>
+</td>
+<td>
+<p>Number panel, simpler than the object mode one</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O</p>
+</td>
+<td>
+<p>Switch in and out of proportional editing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;O</p>
+</td>
+<td>
+<p>Toggles between smooth and sharp proportional editing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P</p>
+</td>
+<td>
+<p>Separate, you can choose to make a new object with all selected vertices, edges, faces, and curves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;P</p>
+</td>
+<td>
+<p>Make vertex parent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;S</p>
+</td>
+<td>
+<p>Shear, in edit mode this operation enables you to make selected forms slant</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U</p>
+</td>
+<td>
+<p>Undo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>Displays specials popup menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;W</p>
+</td>
+<td>
+<p>Warp, selected vertices can be bent into curves with this option</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Edit Mode - Mesh</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Ctrl&nbsp;+</p>
+</td>
+<td>
+<p>Adds to selection all vertices connected by an edge to an already selected vertex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;-</p>
+</td>
+<td>
+<p>Removes from selection all vertices of the outer ring of selected vertices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>If using curve deformation, toggles the curve cyclic mode on or off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>Extrude selected</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;E</p>
+</td>
+<td>
+<p>Crease subsurf edge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;E</p>
+</td>
+<td>
+<p>Mark LSCM seam</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+<p>Make edge or face</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;F</p>
+</td>
+<td>
+<p>Fill selected, all selected vertices that are bound by edges and form a closed polygon are filled with triangular faces</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;F</p>
+</td>
+<td>
+<p>Beauty fill, edges of all selected triangular faces are switched so equally sized faces are formed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;F</p>
+</td>
+<td>
+<p>Flip faces, selected triangular faces are paired and common edge of each pair swapped</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H</p>
+</td>
+<td>
+<p>Hide selected, all selected vertices and faces are hidden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;H</p>
+</td>
+<td>
+<p>Hide not selected, all non-selected vertices and faces are hidden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;H</p>
+</td>
+<td>
+<p>Reveal, all hidden vertices and faces are drawn again</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;J</p>
+</td>
+<td>
+<p>Join faces, selected triangular faces are joined in pairs and transformed to quads</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>K</p>
+</td>
+<td>
+<p>Knife tool menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>Select linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;L</p>
+</td>
+<td>
+<p>Deselect linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;L</p>
+</td>
+<td>
+<p>Select linked selected</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M</p>
+</td>
+<td>
+<p>Mirror, opens a popup asking for the axis to mirror</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;M</p>
+</td>
+<td>
+<p>Merges selected vertices as barycentrum or at cursor depending on selection made on popup</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;N</p>
+</td>
+<td>
+<p>Calculate normals outside</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;Shift&nbsp;N</p>
+</td>
+<td>
+<p>Calculate normals inside</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;S</p>
+</td>
+<td>
+<p>Scales each vertex in the direction of its local normal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;T</p>
+</td>
+<td>
+<p>Make triangles, all selected faces are converted to triangles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U</p>
+</td>
+<td>
+<p>Undo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;U</p>
+</td>
+<td>
+<p>Redo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;U</p>
+</td>
+<td>
+<p>Undo menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>Special menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Erase selected</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y</p>
+</td>
+<td>
+<p>Split, this command splits the selected part of a mesh without deleting faces</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Edit Mode - Curve</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>Set the selected curves to cyclic or turn cyclic off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>Extrude curve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+<p>Add segment, a segment is added between two selected vertices at the end of two curves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H</p>
+</td>
+<td>
+<p>Toggle handle align or free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;H</p>
+</td>
+<td>
+<p>Set handle to auto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ctrl&nbsp;H</p>
+</td>
+<td>
+<p>Calculate handles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>Select linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;L</p>
+</td>
+<td>
+<p>Deselect linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M</p>
+</td>
+<td>
+<p>Mirror selected control points exactly as for vertices in a mesh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T</p>
+</td>
+<td>
+<p>Tilt mode, specify an extra axis rotation for each vertex in a 3D curve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;T</p>
+</td>
+<td>
+<p>Clear tilt</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>V</p>
+</td>
+<td>
+<p>Vector handle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>The special menu for curves appears</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Erase selected</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Edit Mode - Surface</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>Toggle cyclic menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>Extrude selected</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+<p>Add segment, a segment is added between two selected vertices at the end of two curves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>Select linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;L</p>
+</td>
+<td>
+<p>Deselect linked</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>M</p>
+</td>
+<td>
+<p>Mirror selected control points exactly as for vertices in a mesh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;R</p>
+</td>
+<td>
+<p>Select row, starting with the last selected vertex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>The special menu for surfaces appears</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>X</p>
+</td>
+<td>
+<p>Erase selected</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## Edit Mode - Font</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Right</p>
+</td>
+<td>
+<p>Move text cursor one position forward</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Right</p>
+</td>
+<td>
+<p>Move text cursor to the end of the line</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Left</p>
+</td>
+<td>
+<p>Move text cursor one position backwards</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Left</p>
+</td>
+<td>
+<p>Move text cursor to the start of the line</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Down</p>
+</td>
+<td>
+<p>Move text cursor one line forward</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Down</p>
+</td>
+<td>
+<p>Move text cursor to the end of the text</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Up</p>
+</td>
+<td>
+<p>Move text cursor one line back</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Shift&nbsp;Up</p>
+</td>
+<td>
+<p>Move text cursor to the beginning of the text</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;U</p>
+</td>
+<td>
+<p>Reload original data</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;V</p>
+</td>
+<td>
+<p>Paste text</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## VertexPaint</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Shift&nbsp;K</p>
+</td>
+<td>
+<p>All vertex colors are erased, they are changed to the current drawing color</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U</p>
+</td>
+<td>
+<p>Undo, press twice redos the undone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W</p>
+</td>
+<td>
+<p>Shared vertexcol, the colors of all faces that share vertices are blended</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## UV Editor</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>LSCM unwrapping, launches on the faces visible in the UV editor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P</p>
+</td>
+<td>
+<p>Pin selected vertices, they will stay in place on the UV editor when executing an LSCM unwrap</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alt&nbsp;P</p>
+</td>
+<td>
+<p>Un-pin selected vertices</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>## FaceSelect</strong></p>
+<table width="634">
+<tbody>
+<tr>
+<td>
+<p>Tab</p>
+</td>
+<td>
+<p>Switches to edit mode</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F</p>
+</td>
+<td>
+<p>With multiple, co-planar faces selected, this will merge them into one FGon so long as they remain co-planar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>Select linked UVs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>R</p>
+</td>
+<td>
+<p>Calls a menu allowing to rotate the UV coordinates or the vertex col</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>U</p>
+</td>
+<td>
+<p>Calls the UV Calculation menu</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
