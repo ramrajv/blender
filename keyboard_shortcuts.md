@@ -184,7 +184,7 @@
 
 ## Edit Mode – Surface
 | Key		| Meaning			|
-|:---		|:---				|\
+|:---		|:---				|
 | C	| Toggle cyclic menu|
 | E	| Extrude selected|
 | F	| Add segment, a segment is added between two selected vertices at the end of two curves|
